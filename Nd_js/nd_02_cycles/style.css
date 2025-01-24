@@ -1,0 +1,43 @@
+.flex_style {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+  gap: 15px; 
+}
+
+.lightblue {
+  background-color: #e1d2e37e;
+  border-radius: 15px;
+}
+
+.cool {
+  background-color: #bad2d345;
+  border-radius: 15px;
+}
+  
+
+.font {
+  font-size: max(18px, 3vw);
+  font-family: monospace;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.circle{
+  width: 50px;
+  height: 50px;
+  background-color: #52a4cd;
+  border-radius: 25px;
+}
+
+.kvadratas{
+width: 50px;
+height: 50px;
+border: 1px solid black;
+}

@@ -1,0 +1,40 @@
+
+.circle_blue{
+  width:100px; 
+  height: 100px;
+  background-color: rgb(39, 178, 228); 
+  border-Radius: 50%;
+}
+
+.flex_row{
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  text-align: center;
+}
+
+.red{
+  background-color: rgb(215, 62, 57);
+}
+
+.green{
+  background-color: rgb(53, 199, 131);
+}
+
+.yellow{
+  background-color: rgb(227, 227, 28);
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+.word_conatiner{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap; 
+  width: 100vw; 
+  height: 100vh;
+  overflow: hidden;
+}
